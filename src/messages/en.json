@@ -1,0 +1,17 @@
+{
+    "totalaum": "Total AUM",
+    "transaction": "Number of Transaction",
+    "user": "Number of Users",
+    "product": "Number of Products",
+    "gender": "Users by Gender",
+    "location": "Users by Location",
+    "transactionssummary": "Transactions Summary",
+    "announcement": "Announcements",
+    "seeall": "See All",
+    "addnew": "Add New",
+    "hello": "Hello",
+    "caption": "MENU",
+    "save": "Save",
+    "cancel": "Cancel",
+    "menu": {"dashboard": "Dashboard", "announcement": "Announcement", "settings": "Settings", "logout": "Logout"}
+}

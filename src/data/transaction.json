@@ -1,0 +1,76 @@
+{
+    "transaction": [
+        {
+            "id": "txn_001",
+            "date": "2024-02-01",
+            "amount": 149.99,
+            "currency": "USD",
+            "type": "payment",
+            "status": "completed",
+            "description": "Monthly subscription"
+        },
+        {
+            "id": "txn_002",
+            "date": "2024-02-03",
+            "amount": 79.49,
+            "currency": "USD",
+            "type": "refund",
+            "status": "completed",
+            "description": "Refund for order #1234"
+        },
+        {
+            "id": "txn_003",
+            "date": "2024-02-05",
+            "amount": 250.00,
+            "currency": "USD",
+            "type": "payment",
+            "status": "pending",
+            "description": "One-time setup fee"
+        },
+        {
+            "id": "txn_004",
+            "date": "2024-02-07",
+            "amount": 19.99,
+            "currency": "USD",
+            "type": "payment",
+            "status": "completed",
+            "description": "E-book purchase"
+        },
+        {
+            "id": "txn_005",
+            "date": "2024-02-10",
+            "amount": 45.00,
+            "currency": "USD",
+            "type": "payment",
+            "status": "failed",
+            "description": "Course enrollment"
+        },
+        {
+            "id": "txn_006",
+            "date": "2024-02-12",
+            "amount": 120.00,
+            "currency": "USD",
+            "type": "refund",
+            "status": "completed",
+            "description": "Refund for order #5678"
+        },
+        {
+            "id": "txn_007",
+            "date": "2024-02-15",
+            "amount": 300.00,
+            "currency": "USD",
+            "type": "payment",
+            "status": "completed",
+            "description": "Annual subscription"
+        },
+        {
+            "id": "txn_008",
+            "date": "2024-02-18",
+            "amount": 15.75,
+            "currency": "USD",
+            "type": "payment",
+            "status": "completed",
+            "description": "Digital download"
+        }
+    ]
+}

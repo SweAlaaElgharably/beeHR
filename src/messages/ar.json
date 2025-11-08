@@ -1,0 +1,17 @@
+{
+    "totalaum": "إجمالي AUM",
+    "transaction": "عدد التحويلات",
+    "user": "عدد المستخدمين",
+    "product": "عدد المنتجات",
+    "gender": "المستخدمين حسب النوع",
+    "location": "المستخدمين حسب المكان",
+    "transactionssummary": "ملخص التحويلات",
+    "announcement": "الإعلانات",
+    "seeall": "شاهد الكل",
+    "addnew": "إضافة جديد",
+    "hello": "مرحبا",
+    "caption": "القائمة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "menu": {"dashboard": "لوحة التحكم", "announcement": "الإعلانات", "settings": "الإعدادات", "logout": "تسجيل الخروج"}
+}

@@ -1,0 +1,60 @@
+{
+  "announcements": [
+    {
+      "id": "1",
+      "title": "Holiday Notice",
+      "description": "The office will be closed next Monday due to a national holiday.",
+      "audience": "All Employees",
+      "sendingType": "Immediate"
+    },
+    {
+      "id": "2",
+      "title": "System Maintenance",
+      "description": "Scheduled maintenance will occur on Friday from 2 AM to 5 AM.",
+      "audience": "All Employees",
+      "sendingType": "Scheduled"
+    },
+    {
+      "id": "3",
+      "title": "New HR Policies",
+      "description": "Please review the updated HR policy document available on the portal.",
+      "audience": "Managers",
+      "sendingType": "Immediate"
+    },
+    {
+      "id": "4",
+      "title": "Training Session",
+      "description": "A mandatory product training session will be held next week.",
+      "audience": "Sales Team",
+      "sendingType": "Scheduled"
+    },
+    {
+      "id": "5",
+      "title": "Payroll Delay",
+      "description": "Salary disbursement will be delayed by one day due to a banking issue.",
+      "audience": "All Employees",
+      "sendingType": "Immediate"
+    },
+    {
+      "id": "6",
+      "title": "New Employee Onboarding",
+      "description": "Please welcome the new members joining our engineering department.",
+      "audience": "Engineering Team",
+      "sendingType": "Immediate"
+    },
+    {
+      "id": "7",
+      "title": "Event Reminder",
+      "description": "Don't forget the annual team-building event happening this Friday.",
+      "audience": "All Employees",
+      "sendingType": "Scheduled"
+    },
+    {
+      "id": "8",
+      "title": "Security Alert",
+      "description": "Ensure all accounts use updated passwords due to increased phishing attempts.",
+      "audience": "All Employees",
+      "sendingType": "Immediate"
+    }
+  ]
+}
